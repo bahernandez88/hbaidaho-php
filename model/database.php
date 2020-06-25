@@ -1,8 +1,10 @@
 <?php
 class Database {
-    private static $dsn = 'mysql:host=pdb43.awardspace.net;dbname=3249449_applications';
-    private static $username = '3249449_applications';
-    private static $password = 'JulyFourteen88**';
+    
+    
+    /* Database details removed */
+    
+    
     private static $db;
 
     private function __construct() {}
